@@ -2,9 +2,9 @@ package exercicioIntroducao1_5;
 
 public class Pessoa {
 
-    String nome;
-    int idade;
-    String genero;
+    private String nome;
+    private int idade;
+    private String genero;
 
     public String getNome() {
         return nome;

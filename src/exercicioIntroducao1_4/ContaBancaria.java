@@ -2,9 +2,9 @@ package exercicioIntroducao1_4;
 
 public class ContaBancaria {
 
-    String titular;
-    int numero;
-    double saldo;
+    private String titular;
+    private int numero;
+    private double saldo;
 
     public String getTitular() {
         return titular;
