@@ -2,8 +2,8 @@ package exercicioIntroducao1_7;
 
 public class SerVivo {
 
-    public String nome;
-    public int idade;
+    private String nome;
+    private int idade;
 
     public String getNome() {
         return nome;
