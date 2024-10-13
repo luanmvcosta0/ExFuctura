@@ -1,4 +1,4 @@
-package exercicioIntroducao1_6;
+package exerciciosDeIntroducaoPOO.exercicioIntroducao1_6;
 
 public class Animal {
 

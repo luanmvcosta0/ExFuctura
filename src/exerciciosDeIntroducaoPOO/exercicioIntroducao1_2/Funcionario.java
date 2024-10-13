@@ -1,4 +1,4 @@
-package exercicioIntroducao1_2;
+package exerciciosDeIntroducaoPOO.exercicioIntroducao1_2;
 
 public class Funcionario {
 

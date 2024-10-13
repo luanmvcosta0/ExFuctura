@@ -1,4 +1,4 @@
-package exercicioIntroducao1_5;
+package exerciciosDeIntroducaoPOO.exercicioIntroducao1_5;
 
 public class Pessoa {
 

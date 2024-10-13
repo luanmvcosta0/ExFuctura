@@ -1,4 +1,4 @@
-package exercicioIntroducao1_3;
+package exerciciosDeIntroducaoPOO.exercicioIntroducao1_3;
 
 public class Retangulo {
 

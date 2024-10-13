@@ -1,4 +1,4 @@
-package exercicioIntroducao1_4;
+package exerciciosDeIntroducaoPOO.exercicioIntroducao1_4;
 
 public class Main {
 

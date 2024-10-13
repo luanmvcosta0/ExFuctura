@@ -1,6 +1,6 @@
-package exercicioIntroducao1_8;
+package exerciciosDeIntroducaoPOO.exercicioIntroducao1_8;
 
-import exercicioIntroducao1_7.SerVivo;
+import exerciciosDeIntroducaoPOO.exercicioIntroducao1_7.SerVivo;
 
 public class Mamifero extends SerVivo{
 
