@@ -1,4 +1,4 @@
-package exerciciosDeIntroducao2POO.exerciciooIntroducao2_3;
+package exerciciosDeIntroducao2POO.exercicioIntroducao2_3;
 
 public class Musica {
 
